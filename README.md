@@ -1,0 +1,3 @@
+# DNA-Converter
+Code that does some stuff with DNA 
+This is my first ACTUAL repository. I don't know how these actually work but I tried anyway....
